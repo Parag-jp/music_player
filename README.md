@@ -1,4 +1,4 @@
-# Music-Player-dueing-Coding-Ninjas course
+# Music-Player-during-Coding-Ninjas course
 
 
 ## Screenshots of the music player :-
